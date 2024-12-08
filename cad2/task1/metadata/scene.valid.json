@@ -1,0 +1,1038 @@
+{
+  "S50001": {
+    "segment_id": "Actions_-_One_Minute_Smile_1",
+    "alpha": "alpha_5"
+  },
+  "S50002": {
+    "segment_id": "Actions_-_One_Minute_Smile_2",
+    "alpha": "alpha_10"
+  },
+  "S50003": {
+    "segment_id": "Actions_-_One_Minute_Smile_3",
+    "alpha": "alpha_10"
+  },
+  "S50004": {
+    "segment_id": "Actions_-_One_Minute_Smile_4",
+    "alpha": "alpha_5"
+  },
+  "S50005": {
+    "segment_id": "Actions_-_One_Minute_Smile_5",
+    "alpha": "alpha_4"
+  },
+  "S50006": {
+    "segment_id": "Actions_-_One_Minute_Smile_6",
+    "alpha": "alpha_0"
+  },
+  "S50007": {
+    "segment_id": "Actions_-_One_Minute_Smile_7",
+    "alpha": "alpha_4"
+  },
+  "S50008": {
+    "segment_id": "Actions_-_One_Minute_Smile_8",
+    "alpha": "alpha_4"
+  },
+  "S50009": {
+    "segment_id": "Actions_-_One_Minute_Smile_9",
+    "alpha": "alpha_4"
+  },
+  "S50010": {
+    "segment_id": "Actions_-_One_Minute_Smile_10",
+    "alpha": "alpha_5"
+  },
+  "S50011": {
+    "segment_id": "Actions_-_One_Minute_Smile_11",
+    "alpha": "alpha_7"
+  },
+  "S50012": {
+    "segment_id": "Actions_-_One_Minute_Smile_12",
+    "alpha": "alpha_1"
+  },
+  "S50013": {
+    "segment_id": "Actions_-_One_Minute_Smile_13",
+    "alpha": "alpha_5"
+  },
+  "S50014": {
+    "segment_id": "Actions_-_One_Minute_Smile_14",
+    "alpha": "alpha_8"
+  },
+  "S50015": {
+    "segment_id": "Actions_-_One_Minute_Smile_15",
+    "alpha": "alpha_2"
+  },
+  "S50016": {
+    "segment_id": "Actions_-_One_Minute_Smile_16",
+    "alpha": "alpha_0"
+  },
+  "S50017": {
+    "segment_id": "Actions_-_One_Minute_Smile_17",
+    "alpha": "alpha_0"
+  },
+  "S50018": {
+    "segment_id": "Actions_-_One_Minute_Smile_18",
+    "alpha": "alpha_2"
+  },
+  "S50019": {
+    "segment_id": "Actions_-_One_Minute_Smile_19",
+    "alpha": "alpha_0"
+  },
+  "S50020": {
+    "segment_id": "Actions_-_One_Minute_Smile_20",
+    "alpha": "alpha_6"
+  },
+  "S50021": {
+    "segment_id": "Actions_-_One_Minute_Smile_21",
+    "alpha": "alpha_1"
+  },
+  "S50022": {
+    "segment_id": "Actions_-_One_Minute_Smile_22",
+    "alpha": "alpha_5"
+  },
+  "S50023": {
+    "segment_id": "Actions_-_One_Minute_Smile_23",
+    "alpha": "alpha_10"
+  },
+  "S50024": {
+    "segment_id": "Actions_-_One_Minute_Smile_24",
+    "alpha": "alpha_0"
+  },
+  "S50025": {
+    "segment_id": "Actions_-_One_Minute_Smile_25",
+    "alpha": "alpha_6"
+  },
+  "S50026": {
+    "segment_id": "Actions_-_One_Minute_Smile_26",
+    "alpha": "alpha_3"
+  },
+  "S50027": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_27",
+    "alpha": "alpha_0"
+  },
+  "S50028": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_28",
+    "alpha": "alpha_0"
+  },
+  "S50029": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_29",
+    "alpha": "alpha_5"
+  },
+  "S50030": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_30",
+    "alpha": "alpha_1"
+  },
+  "S50031": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_31",
+    "alpha": "alpha_9"
+  },
+  "S50032": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_32",
+    "alpha": "alpha_8"
+  },
+  "S50033": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_33",
+    "alpha": "alpha_1"
+  },
+  "S50034": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_34",
+    "alpha": "alpha_1"
+  },
+  "S50035": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_35",
+    "alpha": "alpha_0"
+  },
+  "S50036": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_36",
+    "alpha": "alpha_4"
+  },
+  "S50037": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_37",
+    "alpha": "alpha_7"
+  },
+  "S50038": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_38",
+    "alpha": "alpha_0"
+  },
+  "S50039": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_39",
+    "alpha": "alpha_6"
+  },
+  "S50040": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_40",
+    "alpha": "alpha_6"
+  },
+  "S50041": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_41",
+    "alpha": "alpha_1"
+  },
+  "S50042": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_42",
+    "alpha": "alpha_4"
+  },
+  "S50043": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_43",
+    "alpha": "alpha_7"
+  },
+  "S50044": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_44",
+    "alpha": "alpha_8"
+  },
+  "S50045": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_45",
+    "alpha": "alpha_8"
+  },
+  "S50046": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_46",
+    "alpha": "alpha_5"
+  },
+  "S50047": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_47",
+    "alpha": "alpha_7"
+  },
+  "S50048": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_48",
+    "alpha": "alpha_9"
+  },
+  "S50049": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_49",
+    "alpha": "alpha_0"
+  },
+  "S50050": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_50",
+    "alpha": "alpha_3"
+  },
+  "S50051": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_51",
+    "alpha": "alpha_9"
+  },
+  "S50052": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_52",
+    "alpha": "alpha_4"
+  },
+  "S50053": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_53",
+    "alpha": "alpha_2"
+  },
+  "S50054": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_54",
+    "alpha": "alpha_7"
+  },
+  "S50055": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_55",
+    "alpha": "alpha_5"
+  },
+  "S50056": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_56",
+    "alpha": "alpha_5"
+  },
+  "S50057": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_57",
+    "alpha": "alpha_4"
+  },
+  "S50058": {
+    "segment_id": "Alexander_Ross_-_Goodbye_Bolero_58",
+    "alpha": "alpha_6"
+  },
+  "S50059": {
+    "segment_id": "ANiMAL_-_Rockshow_59",
+    "alpha": "alpha_10"
+  },
+  "S50060": {
+    "segment_id": "ANiMAL_-_Rockshow_60",
+    "alpha": "alpha_0"
+  },
+  "S50061": {
+    "segment_id": "ANiMAL_-_Rockshow_61",
+    "alpha": "alpha_4"
+  },
+  "S50062": {
+    "segment_id": "ANiMAL_-_Rockshow_62",
+    "alpha": "alpha_2"
+  },
+  "S50063": {
+    "segment_id": "ANiMAL_-_Rockshow_63",
+    "alpha": "alpha_0"
+  },
+  "S50064": {
+    "segment_id": "ANiMAL_-_Rockshow_64",
+    "alpha": "alpha_2"
+  },
+  "S50065": {
+    "segment_id": "ANiMAL_-_Rockshow_65",
+    "alpha": "alpha_3"
+  },
+  "S50066": {
+    "segment_id": "ANiMAL_-_Rockshow_66",
+    "alpha": "alpha_0"
+  },
+  "S50067": {
+    "segment_id": "ANiMAL_-_Rockshow_67",
+    "alpha": "alpha_2"
+  },
+  "S50068": {
+    "segment_id": "ANiMAL_-_Rockshow_68",
+    "alpha": "alpha_2"
+  },
+  "S50069": {
+    "segment_id": "ANiMAL_-_Rockshow_69",
+    "alpha": "alpha_6"
+  },
+  "S50070": {
+    "segment_id": "ANiMAL_-_Rockshow_70",
+    "alpha": "alpha_1"
+  },
+  "S50071": {
+    "segment_id": "ANiMAL_-_Rockshow_71",
+    "alpha": "alpha_4"
+  },
+  "S50072": {
+    "segment_id": "ANiMAL_-_Rockshow_72",
+    "alpha": "alpha_3"
+  },
+  "S50073": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_73",
+    "alpha": "alpha_3"
+  },
+  "S50074": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_74",
+    "alpha": "alpha_1"
+  },
+  "S50075": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_75",
+    "alpha": "alpha_8"
+  },
+  "S50076": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_76",
+    "alpha": "alpha_10"
+  },
+  "S50077": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_77",
+    "alpha": "alpha_8"
+  },
+  "S50078": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_78",
+    "alpha": "alpha_5"
+  },
+  "S50079": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_79",
+    "alpha": "alpha_9"
+  },
+  "S50080": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_80",
+    "alpha": "alpha_5"
+  },
+  "S50081": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_81",
+    "alpha": "alpha_9"
+  },
+  "S50082": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_82",
+    "alpha": "alpha_4"
+  },
+  "S50083": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_83",
+    "alpha": "alpha_6"
+  },
+  "S50084": {
+    "segment_id": "Clara_Berry_And_Wooldog_-_Waltz_For_My_Victims_84",
+    "alpha": "alpha_7"
+  },
+  "S50085": {
+    "segment_id": "James_May_-_On_The_Line_85",
+    "alpha": "alpha_8"
+  },
+  "S50086": {
+    "segment_id": "James_May_-_On_The_Line_86",
+    "alpha": "alpha_4"
+  },
+  "S50087": {
+    "segment_id": "James_May_-_On_The_Line_87",
+    "alpha": "alpha_0"
+  },
+  "S50088": {
+    "segment_id": "James_May_-_On_The_Line_88",
+    "alpha": "alpha_0"
+  },
+  "S50089": {
+    "segment_id": "James_May_-_On_The_Line_89",
+    "alpha": "alpha_5"
+  },
+  "S50090": {
+    "segment_id": "James_May_-_On_The_Line_90",
+    "alpha": "alpha_4"
+  },
+  "S50091": {
+    "segment_id": "James_May_-_On_The_Line_91",
+    "alpha": "alpha_0"
+  },
+  "S50092": {
+    "segment_id": "James_May_-_On_The_Line_92",
+    "alpha": "alpha_2"
+  },
+  "S50093": {
+    "segment_id": "James_May_-_On_The_Line_93",
+    "alpha": "alpha_1"
+  },
+  "S50094": {
+    "segment_id": "James_May_-_On_The_Line_94",
+    "alpha": "alpha_8"
+  },
+  "S50095": {
+    "segment_id": "James_May_-_On_The_Line_95",
+    "alpha": "alpha_0"
+  },
+  "S50096": {
+    "segment_id": "James_May_-_On_The_Line_96",
+    "alpha": "alpha_2"
+  },
+  "S50097": {
+    "segment_id": "James_May_-_On_The_Line_97",
+    "alpha": "alpha_9"
+  },
+  "S50098": {
+    "segment_id": "James_May_-_On_The_Line_98",
+    "alpha": "alpha_3"
+  },
+  "S50099": {
+    "segment_id": "James_May_-_On_The_Line_99",
+    "alpha": "alpha_9"
+  },
+  "S50100": {
+    "segment_id": "James_May_-_On_The_Line_100",
+    "alpha": "alpha_6"
+  },
+  "S50101": {
+    "segment_id": "James_May_-_On_The_Line_101",
+    "alpha": "alpha_8"
+  },
+  "S50102": {
+    "segment_id": "James_May_-_On_The_Line_102",
+    "alpha": "alpha_0"
+  },
+  "S50103": {
+    "segment_id": "James_May_-_On_The_Line_103",
+    "alpha": "alpha_3"
+  },
+  "S50104": {
+    "segment_id": "James_May_-_On_The_Line_104",
+    "alpha": "alpha_3"
+  },
+  "S50105": {
+    "segment_id": "James_May_-_On_The_Line_105",
+    "alpha": "alpha_5"
+  },
+  "S50106": {
+    "segment_id": "James_May_-_On_The_Line_106",
+    "alpha": "alpha_6"
+  },
+  "S50107": {
+    "segment_id": "James_May_-_On_The_Line_107",
+    "alpha": "alpha_4"
+  },
+  "S50108": {
+    "segment_id": "James_May_-_On_The_Line_108",
+    "alpha": "alpha_2"
+  },
+  "S50109": {
+    "segment_id": "James_May_-_On_The_Line_109",
+    "alpha": "alpha_5"
+  },
+  "S50110": {
+    "segment_id": "James_May_-_On_The_Line_110",
+    "alpha": "alpha_2"
+  },
+  "S50111": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_111",
+    "alpha": "alpha_7"
+  },
+  "S50112": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_112",
+    "alpha": "alpha_6"
+  },
+  "S50113": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_113",
+    "alpha": "alpha_6"
+  },
+  "S50114": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_114",
+    "alpha": "alpha_7"
+  },
+  "S50115": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_115",
+    "alpha": "alpha_2"
+  },
+  "S50116": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_116",
+    "alpha": "alpha_5"
+  },
+  "S50117": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_117",
+    "alpha": "alpha_6"
+  },
+  "S50118": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_118",
+    "alpha": "alpha_5"
+  },
+  "S50119": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_119",
+    "alpha": "alpha_4"
+  },
+  "S50120": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_120",
+    "alpha": "alpha_5"
+  },
+  "S50121": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_121",
+    "alpha": "alpha_5"
+  },
+  "S50122": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_122",
+    "alpha": "alpha_5"
+  },
+  "S50123": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_123",
+    "alpha": "alpha_6"
+  },
+  "S50124": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_124",
+    "alpha": "alpha_9"
+  },
+  "S50125": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_125",
+    "alpha": "alpha_3"
+  },
+  "S50126": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_126",
+    "alpha": "alpha_4"
+  },
+  "S50127": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_127",
+    "alpha": "alpha_5"
+  },
+  "S50128": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_128",
+    "alpha": "alpha_7"
+  },
+  "S50129": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_129",
+    "alpha": "alpha_0"
+  },
+  "S50130": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_130",
+    "alpha": "alpha_3"
+  },
+  "S50131": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_131",
+    "alpha": "alpha_2"
+  },
+  "S50132": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_132",
+    "alpha": "alpha_9"
+  },
+  "S50133": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_133",
+    "alpha": "alpha_3"
+  },
+  "S50134": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_134",
+    "alpha": "alpha_8"
+  },
+  "S50135": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_135",
+    "alpha": "alpha_1"
+  },
+  "S50136": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_136",
+    "alpha": "alpha_3"
+  },
+  "S50137": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_137",
+    "alpha": "alpha_1"
+  },
+  "S50138": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_138",
+    "alpha": "alpha_10"
+  },
+  "S50139": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_139",
+    "alpha": "alpha_0"
+  },
+  "S50140": {
+    "segment_id": "Johnny_Lokke_-_Promises_&_Lies_140",
+    "alpha": "alpha_0"
+  },
+  "S50141": {
+    "segment_id": "Leaf_-_Summerghost_141",
+    "alpha": "alpha_1"
+  },
+  "S50142": {
+    "segment_id": "Leaf_-_Summerghost_142",
+    "alpha": "alpha_2"
+  },
+  "S50143": {
+    "segment_id": "Leaf_-_Summerghost_143",
+    "alpha": "alpha_9"
+  },
+  "S50144": {
+    "segment_id": "Leaf_-_Summerghost_144",
+    "alpha": "alpha_7"
+  },
+  "S50145": {
+    "segment_id": "Leaf_-_Summerghost_145",
+    "alpha": "alpha_2"
+  },
+  "S50146": {
+    "segment_id": "Leaf_-_Summerghost_146",
+    "alpha": "alpha_8"
+  },
+  "S50147": {
+    "segment_id": "Leaf_-_Summerghost_147",
+    "alpha": "alpha_5"
+  },
+  "S50148": {
+    "segment_id": "Leaf_-_Summerghost_148",
+    "alpha": "alpha_8"
+  },
+  "S50149": {
+    "segment_id": "Leaf_-_Summerghost_149",
+    "alpha": "alpha_2"
+  },
+  "S50150": {
+    "segment_id": "Leaf_-_Summerghost_150",
+    "alpha": "alpha_10"
+  },
+  "S50151": {
+    "segment_id": "Leaf_-_Summerghost_151",
+    "alpha": "alpha_8"
+  },
+  "S50152": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_152",
+    "alpha": "alpha_0"
+  },
+  "S50153": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_153",
+    "alpha": "alpha_2"
+  },
+  "S50154": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_154",
+    "alpha": "alpha_6"
+  },
+  "S50155": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_155",
+    "alpha": "alpha_3"
+  },
+  "S50156": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_156",
+    "alpha": "alpha_8"
+  },
+  "S50157": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_157",
+    "alpha": "alpha_9"
+  },
+  "S50158": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_158",
+    "alpha": "alpha_6"
+  },
+  "S50159": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_159",
+    "alpha": "alpha_10"
+  },
+  "S50160": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_160",
+    "alpha": "alpha_0"
+  },
+  "S50161": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_161",
+    "alpha": "alpha_4"
+  },
+  "S50162": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_162",
+    "alpha": "alpha_9"
+  },
+  "S50163": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_163",
+    "alpha": "alpha_5"
+  },
+  "S50164": {
+    "segment_id": "Patrick_Talbot_-_A_Reason_To_Leave_164",
+    "alpha": "alpha_9"
+  },
+  "S50165": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_165",
+    "alpha": "alpha_7"
+  },
+  "S50166": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_166",
+    "alpha": "alpha_7"
+  },
+  "S50167": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_167",
+    "alpha": "alpha_7"
+  },
+  "S50168": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_168",
+    "alpha": "alpha_4"
+  },
+  "S50169": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_169",
+    "alpha": "alpha_4"
+  },
+  "S50170": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_170",
+    "alpha": "alpha_6"
+  },
+  "S50171": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_171",
+    "alpha": "alpha_5"
+  },
+  "S50172": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_172",
+    "alpha": "alpha_4"
+  },
+  "S50173": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_173",
+    "alpha": "alpha_6"
+  },
+  "S50174": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_174",
+    "alpha": "alpha_0"
+  },
+  "S50175": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_175",
+    "alpha": "alpha_3"
+  },
+  "S50176": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_176",
+    "alpha": "alpha_0"
+  },
+  "S50177": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_177",
+    "alpha": "alpha_8"
+  },
+  "S50178": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_178",
+    "alpha": "alpha_1"
+  },
+  "S50179": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_179",
+    "alpha": "alpha_9"
+  },
+  "S50180": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_180",
+    "alpha": "alpha_3"
+  },
+  "S50181": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_181",
+    "alpha": "alpha_6"
+  },
+  "S50182": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_182",
+    "alpha": "alpha_8"
+  },
+  "S50183": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_183",
+    "alpha": "alpha_0"
+  },
+  "S50184": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_184",
+    "alpha": "alpha_6"
+  },
+  "S50185": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_185",
+    "alpha": "alpha_4"
+  },
+  "S50186": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_186",
+    "alpha": "alpha_3"
+  },
+  "S50187": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_187",
+    "alpha": "alpha_3"
+  },
+  "S50188": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_188",
+    "alpha": "alpha_9"
+  },
+  "S50189": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_189",
+    "alpha": "alpha_4"
+  },
+  "S50190": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_190",
+    "alpha": "alpha_5"
+  },
+  "S50191": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_191",
+    "alpha": "alpha_1"
+  },
+  "S50192": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_192",
+    "alpha": "alpha_9"
+  },
+  "S50193": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_193",
+    "alpha": "alpha_6"
+  },
+  "S50194": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_194",
+    "alpha": "alpha_1"
+  },
+  "S50195": {
+    "segment_id": "Skelpolu_-_Human_Mistakes_195",
+    "alpha": "alpha_3"
+  },
+  "S50196": {
+    "segment_id": "Traffic_Experiment_-_Sirens_196",
+    "alpha": "alpha_0"
+  },
+  "S50197": {
+    "segment_id": "Traffic_Experiment_-_Sirens_197",
+    "alpha": "alpha_3"
+  },
+  "S50198": {
+    "segment_id": "Traffic_Experiment_-_Sirens_198",
+    "alpha": "alpha_10"
+  },
+  "S50199": {
+    "segment_id": "Traffic_Experiment_-_Sirens_199",
+    "alpha": "alpha_0"
+  },
+  "S50200": {
+    "segment_id": "Traffic_Experiment_-_Sirens_200",
+    "alpha": "alpha_8"
+  },
+  "S50201": {
+    "segment_id": "Traffic_Experiment_-_Sirens_201",
+    "alpha": "alpha_10"
+  },
+  "S50202": {
+    "segment_id": "Traffic_Experiment_-_Sirens_202",
+    "alpha": "alpha_7"
+  },
+  "S50203": {
+    "segment_id": "Traffic_Experiment_-_Sirens_203",
+    "alpha": "alpha_1"
+  },
+  "S50204": {
+    "segment_id": "Traffic_Experiment_-_Sirens_204",
+    "alpha": "alpha_5"
+  },
+  "S50205": {
+    "segment_id": "Traffic_Experiment_-_Sirens_205",
+    "alpha": "alpha_0"
+  },
+  "S50206": {
+    "segment_id": "Traffic_Experiment_-_Sirens_206",
+    "alpha": "alpha_3"
+  },
+  "S50207": {
+    "segment_id": "Traffic_Experiment_-_Sirens_207",
+    "alpha": "alpha_0"
+  },
+  "S50208": {
+    "segment_id": "Traffic_Experiment_-_Sirens_208",
+    "alpha": "alpha_1"
+  },
+  "S50209": {
+    "segment_id": "Traffic_Experiment_-_Sirens_209",
+    "alpha": "alpha_6"
+  },
+  "S50210": {
+    "segment_id": "Traffic_Experiment_-_Sirens_210",
+    "alpha": "alpha_5"
+  },
+  "S50211": {
+    "segment_id": "Traffic_Experiment_-_Sirens_211",
+    "alpha": "alpha_8"
+  },
+  "S50212": {
+    "segment_id": "Traffic_Experiment_-_Sirens_212",
+    "alpha": "alpha_6"
+  },
+  "S50213": {
+    "segment_id": "Traffic_Experiment_-_Sirens_213",
+    "alpha": "alpha_10"
+  },
+  "S50214": {
+    "segment_id": "Traffic_Experiment_-_Sirens_214",
+    "alpha": "alpha_6"
+  },
+  "S50215": {
+    "segment_id": "Traffic_Experiment_-_Sirens_215",
+    "alpha": "alpha_9"
+  },
+  "S50216": {
+    "segment_id": "Traffic_Experiment_-_Sirens_216",
+    "alpha": "alpha_7"
+  },
+  "S50217": {
+    "segment_id": "Traffic_Experiment_-_Sirens_217",
+    "alpha": "alpha_2"
+  },
+  "S50218": {
+    "segment_id": "Traffic_Experiment_-_Sirens_218",
+    "alpha": "alpha_9"
+  },
+  "S50219": {
+    "segment_id": "Traffic_Experiment_-_Sirens_219",
+    "alpha": "alpha_0"
+  },
+  "S50220": {
+    "segment_id": "Traffic_Experiment_-_Sirens_220",
+    "alpha": "alpha_4"
+  },
+  "S50221": {
+    "segment_id": "Traffic_Experiment_-_Sirens_221",
+    "alpha": "alpha_9"
+  },
+  "S50222": {
+    "segment_id": "Traffic_Experiment_-_Sirens_222",
+    "alpha": "alpha_8"
+  },
+  "S50223": {
+    "segment_id": "Triviul_-_Angelsaint_223",
+    "alpha": "alpha_2"
+  },
+  "S50224": {
+    "segment_id": "Triviul_-_Angelsaint_224",
+    "alpha": "alpha_1"
+  },
+  "S50225": {
+    "segment_id": "Triviul_-_Angelsaint_225",
+    "alpha": "alpha_5"
+  },
+  "S50226": {
+    "segment_id": "Triviul_-_Angelsaint_226",
+    "alpha": "alpha_7"
+  },
+  "S50227": {
+    "segment_id": "Triviul_-_Angelsaint_227",
+    "alpha": "alpha_8"
+  },
+  "S50228": {
+    "segment_id": "Triviul_-_Angelsaint_228",
+    "alpha": "alpha_10"
+  },
+  "S50229": {
+    "segment_id": "Triviul_-_Angelsaint_229",
+    "alpha": "alpha_6"
+  },
+  "S50230": {
+    "segment_id": "Triviul_-_Angelsaint_230",
+    "alpha": "alpha_2"
+  },
+  "S50231": {
+    "segment_id": "Triviul_-_Angelsaint_231",
+    "alpha": "alpha_9"
+  },
+  "S50232": {
+    "segment_id": "Triviul_-_Angelsaint_232",
+    "alpha": "alpha_7"
+  },
+  "S50233": {
+    "segment_id": "Triviul_-_Angelsaint_233",
+    "alpha": "alpha_0"
+  },
+  "S50234": {
+    "segment_id": "Triviul_-_Angelsaint_234",
+    "alpha": "alpha_6"
+  },
+  "S50235": {
+    "segment_id": "Triviul_-_Angelsaint_235",
+    "alpha": "alpha_4"
+  },
+  "S50236": {
+    "segment_id": "Triviul_-_Angelsaint_236",
+    "alpha": "alpha_6"
+  },
+  "S50237": {
+    "segment_id": "Triviul_-_Angelsaint_237",
+    "alpha": "alpha_3"
+  },
+  "S50238": {
+    "segment_id": "Triviul_-_Angelsaint_238",
+    "alpha": "alpha_4"
+  },
+  "S50239": {
+    "segment_id": "Triviul_-_Angelsaint_239",
+    "alpha": "alpha_10"
+  },
+  "S50240": {
+    "segment_id": "Triviul_-_Angelsaint_240",
+    "alpha": "alpha_3"
+  },
+  "S50241": {
+    "segment_id": "Triviul_-_Angelsaint_241",
+    "alpha": "alpha_1"
+  },
+  "S50242": {
+    "segment_id": "Triviul_-_Angelsaint_242",
+    "alpha": "alpha_3"
+  },
+  "S50243": {
+    "segment_id": "Young_Griffo_-_Pennies_243",
+    "alpha": "alpha_0"
+  },
+  "S50244": {
+    "segment_id": "Young_Griffo_-_Pennies_244",
+    "alpha": "alpha_1"
+  },
+  "S50245": {
+    "segment_id": "Young_Griffo_-_Pennies_245",
+    "alpha": "alpha_7"
+  },
+  "S50246": {
+    "segment_id": "Young_Griffo_-_Pennies_246",
+    "alpha": "alpha_2"
+  },
+  "S50247": {
+    "segment_id": "Young_Griffo_-_Pennies_247",
+    "alpha": "alpha_4"
+  },
+  "S50248": {
+    "segment_id": "Young_Griffo_-_Pennies_248",
+    "alpha": "alpha_5"
+  },
+  "S50249": {
+    "segment_id": "Young_Griffo_-_Pennies_249",
+    "alpha": "alpha_2"
+  },
+  "S50250": {
+    "segment_id": "Young_Griffo_-_Pennies_250",
+    "alpha": "alpha_7"
+  },
+  "S50251": {
+    "segment_id": "Young_Griffo_-_Pennies_251",
+    "alpha": "alpha_0"
+  },
+  "S50252": {
+    "segment_id": "Young_Griffo_-_Pennies_252",
+    "alpha": "alpha_0"
+  },
+  "S50253": {
+    "segment_id": "Young_Griffo_-_Pennies_253",
+    "alpha": "alpha_2"
+  },
+  "S50254": {
+    "segment_id": "Young_Griffo_-_Pennies_254",
+    "alpha": "alpha_2"
+  },
+  "S50255": {
+    "segment_id": "Young_Griffo_-_Pennies_255",
+    "alpha": "alpha_6"
+  },
+  "S50256": {
+    "segment_id": "Young_Griffo_-_Pennies_256",
+    "alpha": "alpha_9"
+  },
+  "S50257": {
+    "segment_id": "Young_Griffo_-_Pennies_257",
+    "alpha": "alpha_7"
+  },
+  "S50258": {
+    "segment_id": "Young_Griffo_-_Pennies_258",
+    "alpha": "alpha_3"
+  },
+  "S50259": {
+    "segment_id": "Young_Griffo_-_Pennies_259",
+    "alpha": "alpha_6"
+  }
+}
